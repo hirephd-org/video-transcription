@@ -1,0 +1,3 @@
+jiwer==3.0.3
+pytube==15.0.0
+openai-whisper @ git+https://github.com/openai/whisper.git@1cea4357687b676b293cb5473e1ade25f5b1cef7
