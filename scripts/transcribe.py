@@ -30,5 +30,5 @@ with open(f'{path}/{file_name}', 'w') as out:
     out.writelines(result['text'])
 print('transcription saved')
 
-os.remove("{path}/{title}.mp4")
+os.remove(f"{path}/{title}.mp4")
 print('deleted audio file')
